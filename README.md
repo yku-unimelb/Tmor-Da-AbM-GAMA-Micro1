@@ -1,2 +1,2 @@
 # Tmor-Da-AbM-GAMA-Micro1
-Micro-scaled individual-modelling of human behavioural-rules on people at Tmor-Da
+GAMA V1.7 - Agent-based model of Tmor-Da's Micro1
